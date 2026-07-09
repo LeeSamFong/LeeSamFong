@@ -5,6 +5,7 @@
 <!--START_SECTION:prs-->
 | Project | PR | Description |
 |--------|----|-------------|
+| LeeSamFong/folee-plugin-marketplace | [#1](https://github.com/LeeSamFong/folee-plugin-marketplace/pull/1) | Add the Folee plugin marketplace manifest and README |
 | vuejs/core | [#13791](https://github.com/vuejs/core/pull/13791) | fix(custom-element): prevent defineCustomElement from mutating the options object |
 | module-federation/core | [#4004](https://github.com/module-federation/core/pull/4004) | docs: fix the configuration example in create-config.mdx |
 | TRIS-H/git-grep-cli | [#1](https://github.com/TRIS-H/git-grep-cli/pull/1) | chore: 添加打tag时自动化发布 |
